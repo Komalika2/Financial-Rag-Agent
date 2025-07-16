@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+tqdm
+nltk
+transformers
+tiktoken
+sentence-transformers
+google-generative-ai
+faiss-cpu
+numpy
