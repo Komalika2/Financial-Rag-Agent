@@ -1,0 +1,774 @@
+[
+  {
+    "query": "What was NVIDIA's total revenue in fiscal year 2024?",
+    "answer": "LLM error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 49\n}\n]",
+    "reasoning": "Retrieved relevant information and synthesized the answer.\nNo specific reasoning provided by LLM, relying on agent's default reasoning.",
+    "sub_queries": [
+      "What was NVIDIA's total revenue in fiscal year 2024?"
+    ],
+    "sources": [
+      {
+        "company": "NVDA",
+        "year": "2024",
+        "excerpt": ", and Automotive.\nRevenue for fiscal year 2024 was $60.9 billion, up 126% from a year ago.\nRevenue for fiscal year 2024 was $60.9 billion, up 126% from a year ago.\n\n, and Automotive.\nRevenue for fisca...",
+        "page": 20,
+        "source_doc": "NVDA_2024.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "$ 9,834 $ 6,034 61 % Compute & Networking 11,046 6,841 4,205 61 % Total $ 26,914 $ 16,675 $ 10,239 61 %\n\n$ 9,834 $ 6,034 61 % Compute & Networking 11,046 6,841 4,205 61 % Total $ 26,914 $ 16,675 $ 10,...",
+        "page": 102,
+        "source_doc": "NVDA_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "$ 9,834 $ 6,034 61 % Compute & Networking 11,046 6,841 4,205 61 % Total $ 26,914 $ 16,675 $ 10,239 61 %\n\n$ 9,834 $ 6,034 61 % Compute & Networking 11,046 6,841 4,205 61 % Total $ 26,914 $ 16,675 $ 10,...",
+        "page": 102,
+        "source_doc": "NVDA_2023.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "that fiscal year 2022 includes a full year of networking revenue as Mellanox was acquired in April 2020. CMP contributed $550 million in fiscal year 2022 compared to an insignificant amount in the pri...",
+        "page": 103,
+        "source_doc": "NVDA_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "that fiscal year 2022 includes a full year of networking revenue as Mellanox was acquired in April 2020. CMP contributed $550 million in fiscal year 2022 compared to an insignificant amount in the pri...",
+        "page": 103,
+        "source_doc": "NVDA_2023.htm"
+      }
+    ]
+  },
+  {
+    "query": "What percentage of Google's 2023 revenue came from advertising?",
+    "answer": "LLM error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 48\n}\n]",
+    "reasoning": "Retrieved relevant information and synthesized the answer.\nNo specific reasoning provided by LLM, relying on agent's default reasoning.",
+    "sub_queries": [
+      "What percentage of Google's 2023 revenue came from advertising?"
+    ],
+    "sources": [
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "es) 149 1,960 Total revenues $ 257,637 $ 282,836\nYear Ended December 31,\n2021\n2022\nGoogle Search & other\n$\n148,951\n$\n162,450\nYouTube ads\n\nes) 149 1,960 Total revenues $ 257,637 $ 282,836\nYear Ended De...",
+        "page": 98,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "753\nHedging gains (losses)\n176\n149\nTotal revenues\n$\n182,527\n$\n257,637\nGoogle Services\nGoogle Services\nGoogle advertising revenues\nGoogle advertising revenues\nGoogle Search & other\nGoogle Search & othe...",
+        "page": 100,
+        "source_doc": "GOOGL_2022.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "December 31, 2023, we had\n182,502 employees.\nFinancial Results\nFinancial Results\nRevenues\nRevenues\nThe following table presents revenues by type (in millions):\nThe following table presents revenues by...",
+        "page": 103,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "delivery.\nYouTube ads\nYouTube ads\nYouTube ads revenues increased $2.3 billion from 2022 to 2023. The growth was driven by our brand and direct response advertising products, both of which benefited fr...",
+        "page": 104,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "2020 as well as the effect of interrelated factors including ongoing product and policy changes and improvements we have made in ad formats and delivery, changes in device mix, geographic mix, product...",
+        "page": 103,
+        "source_doc": "GOOGL_2022.htm"
+      }
+    ]
+  },
+  {
+    "query": "How much did Microsoft's cloud revenue grow from 2022 to 2023?",
+    "answer": "LLM error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 47\n}\n]",
+    "reasoning": "Retrieved relevant information and synthesized the answer.\nNo specific reasoning provided by LLM, relying on agent's default reasoning.",
+    "sub_queries": [
+      "How much did Microsoft's cloud revenue grow from 2022 to 2023?"
+    ],
+    "sources": [
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "\u2022\n\u2022\nMicrosoft Cloud (formerly commercial cloud) revenue increased 32% to $91.2 billion.\n\u2022 Office Commercial products and cloud services revenue increased 13% driven by Office 365 Commercial growth of ...",
+        "page": 62,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "943\n6,409\nDevices\n6,991\n6,791\n6,457\nOther\n5,291\n4,479\n3,768\nTotal\n$\n198,270\n$\n168,088\n$\n143,015\n\n943\n6,409\nDevices\n6,991\n6,791\n6,457\nOther\n5,291\n4,479\n3,768\nTotal\n$\n198,270\n$\n168,088\n$\n143,015\nWe have...",
+        "page": 181,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": ",251\n60,080\n25%\nMore Personal Computing\n59,655\n54,093\n10%\nTotal\n$\n198,270\n$\n168,088\n18%\nOperating Income\nProductivity and Business Processes\n$\n29,687\n\n,251\n60,080\n25%\nMore Personal Computing\n59,655\n54...",
+        "page": 72,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "earned revenue and amounts that will be invoiced and recognized as revenue in future periods\nCommercial portion of revenue allocated to remaining performance obligations, which includes unearned reven...",
+        "page": 66,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "within this segment. These metrics provide strategic product insights which allow us to assess the performance across our commercial and consumer businesses. As we have diversity of target audiences a...",
+        "page": 68,
+        "source_doc": "MSFT_2022.htm"
+      }
+    ]
+  },
+  {
+    "query": "Which of the three companies had the highest gross margin in 2023?",
+    "answer": "LLM error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 45\n}\n]",
+    "reasoning": "Performed query decomposition, retrieved data for multiple sub-queries, and synthesized the results.\nNo specific reasoning provided by LLM, relying on agent's default reasoning.",
+    "sub_queries": [
+      "LLM error: 429 You exceeded your current quota",
+      "please check your plan and billing details. For more information on this error",
+      "head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}",
+      "links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}",
+      "retry_delay {\n  seconds: 47\n}\n]"
+    ],
+    "sources": [
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "could divert management attention and harm our business, financial condition, and operating results.\nOur ongoing investment in new businesses, products, services, and technologies is inherently risky,...",
+        "page": 6,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "these agreements limit the time within which an indemnification claim can be made and the amount of the claim. In addition, we have entered into indemnification agreements with our officers and direct...",
+        "page": 241,
+        "source_doc": "GOOGL_2022.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "240\n3\n0\n243\nForeign currency translation and other adjustments\n31\n( 9 )\n( 27 )\n( 5 )\nBalance as of December 31, 2023\n$\n21,118\n$\n7,199\n\n240\n3\n0\n243\nForeign currency translation and other adjustments\n31...",
+        "page": 243,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "subject to the satisfaction of certain regulatory approvals and other customary closing conditions.\nJanuary 18, 2022\nActivision Blizzard\n(\u201cActivision Blizzard\u201d\n95\n68\nActivision Blizzard\u2019s\ncash.\nActivi...",
+        "page": 88,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "regulatory challenges preventing the completion of the transaction. We intend to record in operating expenses a $1.36 billion charge in the first quarter of fiscal year 2023 reflecting the write-off o...",
+        "page": 78,
+        "source_doc": "NVDA_2022.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "234\n560\nWrite-offs\n( 245\n)\n( 252\n)\n( 178\n)\nBalance, end of period\n$\n710\n$\n798\n$\n816\nAllowance for doubtful accounts included in our consolidated balance sheets:\n\n234\n560\nWrite-offs\n( 245\n)\n( 252\n)\n( 1...",
+        "page": 113,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "determination of the timing of revenue recognition, and the estimation of variable consideration.\n\u2022\n\u2022\nWe tested the effectiveness of controls related to the identification of distinct performance obli...",
+        "page": 185,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "regulatory challenges preventing the completion of the transaction. We intend to record in operating expenses a $1.36 billion charge in the first quarter of fiscal year 2023 reflecting the write-off o...",
+        "page": 78,
+        "source_doc": "NVDA_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "because our performance obligation is to facilitate a transaction between app developers and end users, for which we earn a service fee.\nGoogle Cloud Revenues\nGoogle Cloud Revenues\nGoogle Cloud revenu...",
+        "page": 176,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "billion for the fine in the second quarter of 2017. On November 10, 2021, the General Court rejected our appeal, and we subsequently filed an appeal with the European Court of Justice on January 20, 2...",
+        "page": 247,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "772\n28,845\n29,243\nGoogle Network\n23,090\n31,701\n32,780\nGoogle advertising\n146,924\n209,497\n224,473\nGoogle other\n21,711\n28,032\n\n772\n28,845\n29,243\nGoogle Network\n23,090\n31,701\n32,780\nGoogle advertising\n14...",
+        "page": 189,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "and Other Bets. Prior periods will be recast to conform to the revised presentation.\nOur operating segments are not evaluated using asset information.\nOur operating segments are not evaluated using as...",
+        "page": 268,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "primarily due to a revenue mix shift from Google Network properties to Google Search & other properties. The TAC rate on Google Search & other revenues and the TAC rate on Google Network revenues were...",
+        "page": 112,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "%\nCost of revenues increased $26.2 billion from 2020 to 2021. The increase was due to an increase in other cost of revenues and TAC of $13.4 billion and $12.8 billion, respectively.\n\n%\nCost of revenue...",
+        "page": 108,
+        "source_doc": "GOOGL_2022.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "which we expect to result in a reduction of depreciation of approximately $3.4 billion for the full fiscal year 2023 for assets in service as of December 31, 2022, recorded primarily in cost of revenu...",
+        "page": 97,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "4.1 billion. We subsequently filed an appeal with the European Court of Justice. In 2018, we recognized a charge of $ 5.1 billion for the fine, which we reduced by $ 217 million in 2022.\n\n4.1 billion....",
+        "page": 237,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "or software, including third-party software we have installed, as such threats and techniques change frequently and may not be detected until after a security incident has occurred. Further, we may ex...",
+        "page": 32,
+        "source_doc": "NVDA_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "or software, including third-party software we have installed, as such threats and techniques change frequently and may not be detected until after a security incident has occurred. Further, we may ex...",
+        "page": 32,
+        "source_doc": "NVDA_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "lengthy interruptions in our service. In addition, our products and services are highly technical and complex and have contained in the past, and may contain in the future, errors or vulnerabilities, ...",
+        "page": 17,
+        "source_doc": "GOOGL_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "to do so in a cost-effective or timely manner. If we fail to fulfill our customers\u2019 orders on a timely basis, or at all, our customer relationships could be damaged, we could lose revenue and market s...",
+        "page": 12,
+        "source_doc": "NVDA_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "to do so in a cost-effective or timely manner. If we fail to fulfill our customers\u2019 orders on a timely basis, or at all, our customer relationships could be damaged, we could lose revenue and market s...",
+        "page": 12,
+        "source_doc": "NVDA_2023.htm"
+      }
+    ]
+  },
+  {
+    "query": "Compare the R&D spending as a percentage of revenue across all three companies in 2023",
+    "answer": "LLM error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 43\n}\n]",
+    "reasoning": "Performed query decomposition, retrieved data for multiple sub-queries, and synthesized the results.\nNo specific reasoning provided by LLM, relying on agent's default reasoning.",
+    "sub_queries": [
+      "LLM error: 429 You exceeded your current quota",
+      "please check your plan and billing details. For more information on this error",
+      "head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}",
+      "links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}",
+      "retry_delay {\n  seconds: 45\n}\n]"
+    ],
+    "sources": [
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "could divert management attention and harm our business, financial condition, and operating results.\nOur ongoing investment in new businesses, products, services, and technologies is inherently risky,...",
+        "page": 6,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "these agreements limit the time within which an indemnification claim can be made and the amount of the claim. In addition, we have entered into indemnification agreements with our officers and direct...",
+        "page": 241,
+        "source_doc": "GOOGL_2022.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "240\n3\n0\n243\nForeign currency translation and other adjustments\n31\n( 9 )\n( 27 )\n( 5 )\nBalance as of December 31, 2023\n$\n21,118\n$\n7,199\n\n240\n3\n0\n243\nForeign currency translation and other adjustments\n31...",
+        "page": 243,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "subject to the satisfaction of certain regulatory approvals and other customary closing conditions.\nJanuary 18, 2022\nActivision Blizzard\n(\u201cActivision Blizzard\u201d\n95\n68\nActivision Blizzard\u2019s\ncash.\nActivi...",
+        "page": 88,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "regulatory challenges preventing the completion of the transaction. We intend to record in operating expenses a $1.36 billion charge in the first quarter of fiscal year 2023 reflecting the write-off o...",
+        "page": 78,
+        "source_doc": "NVDA_2022.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "234\n560\nWrite-offs\n( 245\n)\n( 252\n)\n( 178\n)\nBalance, end of period\n$\n710\n$\n798\n$\n816\nAllowance for doubtful accounts included in our consolidated balance sheets:\n\n234\n560\nWrite-offs\n( 245\n)\n( 252\n)\n( 1...",
+        "page": 113,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "determination of the timing of revenue recognition, and the estimation of variable consideration.\n\u2022\n\u2022\nWe tested the effectiveness of controls related to the identification of distinct performance obli...",
+        "page": 185,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "regulatory challenges preventing the completion of the transaction. We intend to record in operating expenses a $1.36 billion charge in the first quarter of fiscal year 2023 reflecting the write-off o...",
+        "page": 78,
+        "source_doc": "NVDA_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "because our performance obligation is to facilitate a transaction between app developers and end users, for which we earn a service fee.\nGoogle Cloud Revenues\nGoogle Cloud Revenues\nGoogle Cloud revenu...",
+        "page": 176,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "billion for the fine in the second quarter of 2017. On November 10, 2021, the General Court rejected our appeal, and we subsequently filed an appeal with the European Court of Justice on January 20, 2...",
+        "page": 247,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "4.1 billion. We subsequently filed an appeal with the European Court of Justice. In 2018, we recognized a charge of $ 5.1 billion for the fine, which we reduced by $ 217 million in 2022.\n\n4.1 billion....",
+        "page": 237,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "772\n28,845\n29,243\nGoogle Network\n23,090\n31,701\n32,780\nGoogle advertising\n146,924\n209,497\n224,473\nGoogle other\n21,711\n28,032\n\n772\n28,845\n29,243\nGoogle Network\n23,090\n31,701\n32,780\nGoogle advertising\n14...",
+        "page": 189,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "primarily due to a revenue mix shift from Google Network properties to Google Search & other properties. The TAC rate on Google Search & other revenues and the TAC rate on Google Network revenues were...",
+        "page": 112,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "%\nCost of revenues increased $26.2 billion from 2020 to 2021. The increase was due to an increase in other cost of revenues and TAC of $13.4 billion and $12.8 billion, respectively.\n\n%\nCost of revenue...",
+        "page": 108,
+        "source_doc": "GOOGL_2022.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "which we expect to result in a reduction of depreciation of approximately $3.4 billion for the full fiscal year 2023 for assets in service as of December 31, 2022, recorded primarily in cost of revenu...",
+        "page": 97,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "or software, including third-party software we have installed, as such threats and techniques change frequently and may not be detected until after a security incident has occurred. Further, we may ex...",
+        "page": 32,
+        "source_doc": "NVDA_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "or software, including third-party software we have installed, as such threats and techniques change frequently and may not be detected until after a security incident has occurred. Further, we may ex...",
+        "page": 32,
+        "source_doc": "NVDA_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "lengthy interruptions in our service. In addition, our products and services are highly technical and complex and have contained in the past, and may contain in the future, errors or vulnerabilities, ...",
+        "page": 17,
+        "source_doc": "GOOGL_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "to do so in a cost-effective or timely manner. If we fail to fulfill our customers\u2019 orders on a timely basis, or at all, our customer relationships could be damaged, we could lose revenue and market s...",
+        "page": 12,
+        "source_doc": "NVDA_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "to do so in a cost-effective or timely manner. If we fail to fulfill our customers\u2019 orders on a timely basis, or at all, our customer relationships could be damaged, we could lose revenue and market s...",
+        "page": 12,
+        "source_doc": "NVDA_2023.htm"
+      }
+    ]
+  },
+  {
+    "query": "How did each company's operating margin change from 2022 to 2024?",
+    "answer": "LLM error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 41\n}\n]",
+    "reasoning": "Performed query decomposition, retrieved data for multiple sub-queries, and synthesized the results.\nNo specific reasoning provided by LLM, relying on agent's default reasoning.",
+    "sub_queries": [
+      "LLM error: 429 You exceeded your current quota",
+      "please check your plan and billing details. For more information on this error",
+      "head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}",
+      "links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}",
+      "retry_delay {\n  seconds: 43\n}\n]"
+    ],
+    "sources": [
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "could divert management attention and harm our business, financial condition, and operating results.\nOur ongoing investment in new businesses, products, services, and technologies is inherently risky,...",
+        "page": 6,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "these agreements limit the time within which an indemnification claim can be made and the amount of the claim. In addition, we have entered into indemnification agreements with our officers and direct...",
+        "page": 241,
+        "source_doc": "GOOGL_2022.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "240\n3\n0\n243\nForeign currency translation and other adjustments\n31\n( 9 )\n( 27 )\n( 5 )\nBalance as of December 31, 2023\n$\n21,118\n$\n7,199\n\n240\n3\n0\n243\nForeign currency translation and other adjustments\n31...",
+        "page": 243,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "subject to the satisfaction of certain regulatory approvals and other customary closing conditions.\nJanuary 18, 2022\nActivision Blizzard\n(\u201cActivision Blizzard\u201d\n95\n68\nActivision Blizzard\u2019s\ncash.\nActivi...",
+        "page": 88,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "regulatory challenges preventing the completion of the transaction. We intend to record in operating expenses a $1.36 billion charge in the first quarter of fiscal year 2023 reflecting the write-off o...",
+        "page": 78,
+        "source_doc": "NVDA_2022.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "234\n560\nWrite-offs\n( 245\n)\n( 252\n)\n( 178\n)\nBalance, end of period\n$\n710\n$\n798\n$\n816\nAllowance for doubtful accounts included in our consolidated balance sheets:\n\n234\n560\nWrite-offs\n( 245\n)\n( 252\n)\n( 1...",
+        "page": 113,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "determination of the timing of revenue recognition, and the estimation of variable consideration.\n\u2022\n\u2022\nWe tested the effectiveness of controls related to the identification of distinct performance obli...",
+        "page": 185,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "regulatory challenges preventing the completion of the transaction. We intend to record in operating expenses a $1.36 billion charge in the first quarter of fiscal year 2023 reflecting the write-off o...",
+        "page": 78,
+        "source_doc": "NVDA_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "because our performance obligation is to facilitate a transaction between app developers and end users, for which we earn a service fee.\nGoogle Cloud Revenues\nGoogle Cloud Revenues\nGoogle Cloud revenu...",
+        "page": 176,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "billion for the fine in the second quarter of 2017. On November 10, 2021, the General Court rejected our appeal, and we subsequently filed an appeal with the European Court of Justice on January 20, 2...",
+        "page": 247,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "772\n28,845\n29,243\nGoogle Network\n23,090\n31,701\n32,780\nGoogle advertising\n146,924\n209,497\n224,473\nGoogle other\n21,711\n28,032\n\n772\n28,845\n29,243\nGoogle Network\n23,090\n31,701\n32,780\nGoogle advertising\n14...",
+        "page": 189,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "and Other Bets. Prior periods will be recast to conform to the revised presentation.\nOur operating segments are not evaluated using asset information.\nOur operating segments are not evaluated using as...",
+        "page": 268,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "primarily due to a revenue mix shift from Google Network properties to Google Search & other properties. The TAC rate on Google Search & other revenues and the TAC rate on Google Network revenues were...",
+        "page": 112,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "%\nCost of revenues increased $26.2 billion from 2020 to 2021. The increase was due to an increase in other cost of revenues and TAC of $13.4 billion and $12.8 billion, respectively.\n\n%\nCost of revenue...",
+        "page": 108,
+        "source_doc": "GOOGL_2022.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "which we expect to result in a reduction of depreciation of approximately $3.4 billion for the full fiscal year 2023 for assets in service as of December 31, 2022, recorded primarily in cost of revenu...",
+        "page": 97,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "4.1 billion. We subsequently filed an appeal with the European Court of Justice. In 2018, we recognized a charge of $ 5.1 billion for the fine, which we reduced by $ 217 million in 2022.\n\n4.1 billion....",
+        "page": 237,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "or software, including third-party software we have installed, as such threats and techniques change frequently and may not be detected until after a security incident has occurred. Further, we may ex...",
+        "page": 32,
+        "source_doc": "NVDA_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "or software, including third-party software we have installed, as such threats and techniques change frequently and may not be detected until after a security incident has occurred. Further, we may ex...",
+        "page": 32,
+        "source_doc": "NVDA_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "lengthy interruptions in our service. In addition, our products and services are highly technical and complex and have contained in the past, and may contain in the future, errors or vulnerabilities, ...",
+        "page": 17,
+        "source_doc": "GOOGL_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "to do so in a cost-effective or timely manner. If we fail to fulfill our customers\u2019 orders on a timely basis, or at all, our customer relationships could be damaged, we could lose revenue and market s...",
+        "page": 12,
+        "source_doc": "NVDA_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "to do so in a cost-effective or timely manner. If we fail to fulfill our customers\u2019 orders on a timely basis, or at all, our customer relationships could be damaged, we could lose revenue and market s...",
+        "page": 12,
+        "source_doc": "NVDA_2023.htm"
+      }
+    ]
+  },
+  {
+    "query": "What are the main AI risks mentioned by each company and how do they differ?",
+    "answer": "LLM error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 39\n}\n]",
+    "reasoning": "Performed query decomposition, retrieved data for multiple sub-queries, and synthesized the results.\nNo specific reasoning provided by LLM, relying on agent's default reasoning.",
+    "sub_queries": [
+      "LLM error: 429 You exceeded your current quota",
+      "please check your plan and billing details. For more information on this error",
+      "head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-pro\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}",
+      "links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}",
+      "retry_delay {\n  seconds: 41\n}\n]"
+    ],
+    "sources": [
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "could divert management attention and harm our business, financial condition, and operating results.\nOur ongoing investment in new businesses, products, services, and technologies is inherently risky,...",
+        "page": 6,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "these agreements limit the time within which an indemnification claim can be made and the amount of the claim. In addition, we have entered into indemnification agreements with our officers and direct...",
+        "page": 241,
+        "source_doc": "GOOGL_2022.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "240\n3\n0\n243\nForeign currency translation and other adjustments\n31\n( 9 )\n( 27 )\n( 5 )\nBalance as of December 31, 2023\n$\n21,118\n$\n7,199\n\n240\n3\n0\n243\nForeign currency translation and other adjustments\n31...",
+        "page": 243,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "subject to the satisfaction of certain regulatory approvals and other customary closing conditions.\nJanuary 18, 2022\nActivision Blizzard\n(\u201cActivision Blizzard\u201d\n95\n68\nActivision Blizzard\u2019s\ncash.\nActivi...",
+        "page": 88,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "regulatory challenges preventing the completion of the transaction. We intend to record in operating expenses a $1.36 billion charge in the first quarter of fiscal year 2023 reflecting the write-off o...",
+        "page": 78,
+        "source_doc": "NVDA_2022.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "234\n560\nWrite-offs\n( 245\n)\n( 252\n)\n( 178\n)\nBalance, end of period\n$\n710\n$\n798\n$\n816\nAllowance for doubtful accounts included in our consolidated balance sheets:\n\n234\n560\nWrite-offs\n( 245\n)\n( 252\n)\n( 1...",
+        "page": 113,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "MSFT",
+        "year": "2022",
+        "excerpt": "determination of the timing of revenue recognition, and the estimation of variable consideration.\n\u2022\n\u2022\nWe tested the effectiveness of controls related to the identification of distinct performance obli...",
+        "page": 185,
+        "source_doc": "MSFT_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "regulatory challenges preventing the completion of the transaction. We intend to record in operating expenses a $1.36 billion charge in the first quarter of fiscal year 2023 reflecting the write-off o...",
+        "page": 78,
+        "source_doc": "NVDA_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "because our performance obligation is to facilitate a transaction between app developers and end users, for which we earn a service fee.\nGoogle Cloud Revenues\nGoogle Cloud Revenues\nGoogle Cloud revenu...",
+        "page": 176,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "billion for the fine in the second quarter of 2017. On November 10, 2021, the General Court rejected our appeal, and we subsequently filed an appeal with the European Court of Justice on January 20, 2...",
+        "page": 247,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "772\n28,845\n29,243\nGoogle Network\n23,090\n31,701\n32,780\nGoogle advertising\n146,924\n209,497\n224,473\nGoogle other\n21,711\n28,032\n\n772\n28,845\n29,243\nGoogle Network\n23,090\n31,701\n32,780\nGoogle advertising\n14...",
+        "page": 189,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "and Other Bets. Prior periods will be recast to conform to the revised presentation.\nOur operating segments are not evaluated using asset information.\nOur operating segments are not evaluated using as...",
+        "page": 268,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "primarily due to a revenue mix shift from Google Network properties to Google Search & other properties. The TAC rate on Google Search & other revenues and the TAC rate on Google Network revenues were...",
+        "page": 112,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "%\nCost of revenues increased $26.2 billion from 2020 to 2021. The increase was due to an increase in other cost of revenues and TAC of $13.4 billion and $12.8 billion, respectively.\n\n%\nCost of revenue...",
+        "page": 108,
+        "source_doc": "GOOGL_2022.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "which we expect to result in a reduction of depreciation of approximately $3.4 billion for the full fiscal year 2023 for assets in service as of December 31, 2022, recorded primarily in cost of revenu...",
+        "page": 97,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2023",
+        "excerpt": "4.1 billion. We subsequently filed an appeal with the European Court of Justice. In 2018, we recognized a charge of $ 5.1 billion for the fine, which we reduced by $ 217 million in 2022.\n\n4.1 billion....",
+        "page": 237,
+        "source_doc": "GOOGL_2023.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "or software, including third-party software we have installed, as such threats and techniques change frequently and may not be detected until after a security incident has occurred. Further, we may ex...",
+        "page": 32,
+        "source_doc": "NVDA_2022.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2023",
+        "excerpt": "or software, including third-party software we have installed, as such threats and techniques change frequently and may not be detected until after a security incident has occurred. Further, we may ex...",
+        "page": 32,
+        "source_doc": "NVDA_2023.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2022",
+        "excerpt": "lengthy interruptions in our service. In addition, our products and services are highly technical and complex and have contained in the past, and may contain in the future, errors or vulnerabilities, ...",
+        "page": 17,
+        "source_doc": "GOOGL_2022.htm"
+      },
+      {
+        "company": "GOOGL",
+        "year": "2024",
+        "excerpt": "condition, and operating results.\nInterruption to, interference with, or failure of our complex information technology and communications systems could hurt our ability to effectively provide our prod...",
+        "page": 20,
+        "source_doc": "GOOGL_2024.htm"
+      },
+      {
+        "company": "NVDA",
+        "year": "2022",
+        "excerpt": "to do so in a cost-effective or timely manner. If we fail to fulfill our customers\u2019 orders on a timely basis, or at all, our customer relationships could be damaged, we could lose revenue and market s...",
+        "page": 12,
+        "source_doc": "NVDA_2022.htm"
+      }
+    ]
+  }
+]
